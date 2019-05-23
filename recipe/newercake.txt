@@ -5,3 +5,5 @@ eggs
 chocolate chip
 ice cream
 cherry
+almond
+walnut
