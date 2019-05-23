@@ -1,6 +1,6 @@
-brocolli
 flour
 sugar
 milk
 eggs
+chocolate chip
 
